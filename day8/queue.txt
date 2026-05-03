@@ -1,0 +1,19 @@
+Queue
+Types
+	Simple
+	Circular
+	Priority 
+	Dequeue
+
+Operations
+	enqueue() -> Adding an element in the queue
+	dequeue() -> removing an element from the queue
+	front()/peek() --> displaying front element in the queue
+	isEmpty() --> check whether the queue is empty or not
+	isFull() --> check wehether the queue is full or not
+
+Arrays
+LinkedList
+Stack
+int a; // 4
+
